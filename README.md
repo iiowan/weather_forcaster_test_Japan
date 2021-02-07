@@ -1,0 +1,2 @@
+# weather_forcaster_test_Japan
+気象予報士の学科(専門)に出てきそうな問題を気象庁HPから集めてきました。
